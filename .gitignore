@@ -3,7 +3,8 @@
 # Bare Minimum Git
 # https://salferrarello.com/starter-gitignore-file/
 # ver 20210211
-#
+
+
 # From the root of your project run
 # curl -O https://gist.githubusercontent.com/salcode/10017553/raw/.gitignore
 # to download this file
@@ -69,6 +70,7 @@ Thumbs.db
 *.sublime-project
 *.sublime-workspace
 *.komodoproject
+target/
 
 # ignore log files and databases
 *.log
